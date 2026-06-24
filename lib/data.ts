@@ -21,7 +21,7 @@ export const navLinks: NavLink[] = [
 ];
 
 export const brand: BrandConstants = {
-  name: "Lumière",
+  name: "Toby's Shop",
   tagline: "Crafted for modern living.",
   ctaLabel: "Shop Now",
   ctaHref: "#products",
